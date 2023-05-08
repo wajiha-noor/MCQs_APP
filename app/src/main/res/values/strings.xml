@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Assignment 2</string>
+    <string-array name="questions">
+        <item>Insert the word that complete the first word and begins the second. Ur(..)Al</item>
+        <item>Find the odd man out. Nisob Nethelope azbre Giret</item>
+        <item>Insert the missing number. 11 12 14 ? 26 42</item>
+        <item>If you rearrange the letters "AIRBTB," you would have the name of a:</item>
+        <item>Maryam, twelve years old, is three times as old as her sister. How old will Maryam be when she is twice as old as her sister?</item>
+        <item>Two people can make two bicycles in 2 hours. How many people are required to make 12 bicycles in 6 hours?</item>
+        <item>How many birthdays does the average man have?</item>
+        <item>If a plane crashes on the border between the United States and Canada, where do they bury the survivors?</item>
+        <item>Which number can replace both question marks? 2/? = ?/50.</item>
+        <item>The zoo had some lions and some parrots. The supervisor counted 15 heads and 50 legs. How Many Lions are there?</item>
+
+    </string-array>
+    <string-array name="options">
+        <item>Band</item><item>Bun</item><item>Bane</item><item>Ban</item>
+        <item>Telephone</item><item>Sobin</item><item>Griet</item><item>Azber</item>
+        <item>20</item><item>18</item><item>22</item><item>16</item>
+        <item>Ocean</item><item>Country</item><item>Animal</item><item>City</item>
+        <item>15</item><item>18</item><item>16</item><item>20</item>
+        <item>10</item><item>20</item><item>24</item><item>20</item>
+        <item>One</item><item>Every Year</item><item>Twice a Year</item><item>Infinite</item>
+        <item>United States</item><item>Canada</item><item>50 50 Both Sides</item><item>don\'t bury them</item>
+        <item>10</item><item>50</item><item>5</item><item>30</item>
+        <item>8</item><item>9</item><item>10</item><item>12</item>
+    </string-array>
+</resources>
